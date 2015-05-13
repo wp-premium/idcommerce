@@ -1,0 +1,28 @@
+{
+	"currency": [ 
+		{"code": "USD", "symbol": "$"},
+		{"code": "AUD", "symbol": "$"},
+		{"code": "BRL", "symbol": "R$"},
+		{"code": "CAD", "symbol": "$"},
+		{"code": "CHF", "symbol": "Fr"},
+		{"code": "CZK", "symbol": "Kč"},
+		{"code": "DKK", "symbol": "Kr"},
+		{"code": "EUR", "symbol": "&euro;"},
+		{"code": "GBP", "symbol": "&pound;"},
+		{"code": "HKD", "symbol": "$"},
+		{"code": "HUF", "symbol": "Ft"},
+		{"code": "ILS", "symbol": "₪"},
+		{"code": "JPY", "symbol": "&yen;"},
+		{"code": "MXN", "symbol": "$"},
+		{"code": "MYR", "symbol": "RM"},
+		{"code": "NOK", "symbol": "kr"},
+		{"code": "NZD", "symbol": "$"},
+		{"code": "PHP", "symbol": "₱"},
+		{"code": "PLN", "symbol": "zł"},
+		{"code": "SEK", "symbol": "kr"},
+		{"code": "SGD", "symbol": "$"},
+		{"code": "THB", "symbol": "&#3647;"},
+		{"code": "TRY", "symbol": "&#8356;"},
+		{"code": "TWD", "symbol": "NT$"}
+	]
+}
